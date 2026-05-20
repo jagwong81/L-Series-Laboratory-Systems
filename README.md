@@ -27,8 +27,7 @@
 - L3-1 — Slab Penetrations in Precast Floors and the Missing Structural Calculation
 - L3-2 — Frozen Judgment: A Coordinator's Record
 - L3-3 — Judgment Stagnation Zone: When Disagreement Exists but No Adjudication Is Triggered
-
-#### L3-4 — Judgment Exit Under Continuing Operation
-- Chapter 1 — Deferred Judgment: When Unresolved Requirements Are Carried Forward in Time
-- Chapter 2 — Interpretation as Structure: When Undefined Conditions Are Stabilized Without Resolution
-- Chapter 3 — Operational Absorption: When Unstable Conditions Are Sustained Through Behavioral Control
+- L3-4 — Judgment Exit Under Continuing Operation
+  Chapter 1 — Deferred Judgment: When Unresolved Requirements Are Carried Forward in Time
+  Chapter 2 — Interpretation as Structure: When Undefined Conditions Are Stabilized Without Resolution
+  Chapter 3 — Operational Absorption: When Unstable Conditions Are Sustained Through Behavioral Control

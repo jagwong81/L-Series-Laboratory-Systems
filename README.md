@@ -10,17 +10,15 @@
 - L2-1 — Spatial Hierarchy and Zoning Strategy
 - L2-2 — Boundary Identification, Analysis, and Control Strategies in High-Energy Laboratory Zones: Comparative Observations from Two Engineering Frameworks
 - L2-3 — The Functional Logic of Redundancy, Its Differential Landing, and the Evolution and Expression of Boundaries Across Different Engineering Systems
-
-#### L2-4 — Furniture, Systems, and Late Decisions
-- Chapter 1 — Why Laboratory Risks Rarely Start Where They Appear
-- Chapter 2 — From Structural Judgment to System Behavior
-- Chapter 3 — Where System Behavior Becomes Visible: Laboratory Furniture as a Physical Interface of System Mediation
-- Chapter 4 — Absorption at a Cost: Where Judgment Ends, Systems Carry, and Interfaces Reveal
-
-#### L2-5 — Grey Zones Between Institutional Abstraction and Operational Reality
-- Chapter 1 — The Emergence of Grey Zones from Institutional Abstraction
-- Chapter 2 — Grey Zone Stabilization: How Systems Absorb Without Resolving
-- Chapter 3 — System Drift: How Grey Zones Rewrite System Behavior
+- L2-4 — Furniture, Systems, and Late Decisions
+  Chapter 1 — Why Laboratory Risks Rarely Start Where They Appear
+  Chapter 2 — From Structural Judgment to System Behavior
+  Chapter 3 — Where System Behavior Becomes Visible: Laboratory Furniture as a Physical Interface of System Mediation
+  Chapter 4 — Absorption at a Cost: Where Judgment Ends, Systems Carry, and Interfaces Reveal
+- L2-5 — Grey Zones Between Institutional Abstraction and Operational Reality
+  Chapter 1 — The Emergence of Grey Zones from Institutional Abstraction
+  Chapter 2 — Grey Zone Stabilization: How Systems Absorb Without Resolving
+  Chapter 3 — System Drift: How Grey Zones Rewrite System Behavior
 
 ---
 

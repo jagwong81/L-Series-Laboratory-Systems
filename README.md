@@ -15,6 +15,7 @@
   Chapter 2 — From Structural Judgment to System Behavior
   Chapter 3 — Where System Behavior Becomes Visible: Laboratory Furniture as a Physical Interface of System Mediation
   Chapter 4 — Absorption at a Cost: Where Judgment Ends, Systems Carry, and Interfaces Reveal
+  
 - L2-5 — Grey Zones Between Institutional Abstraction and Operational Reality
   Chapter 1 — The Emergence of Grey Zones from Institutional Abstraction
   Chapter 2 — Grey Zone Stabilization: How Systems Absorb Without Resolving

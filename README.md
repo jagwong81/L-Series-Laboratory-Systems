@@ -27,6 +27,11 @@
   - Chapter 2 — Grey Zone Stabilization: How Systems Absorb Without Resolving
   - Chapter 3 — System Drift: How Grey Zones Rewrite System Behavior
 
+- L2-6  — The Negotiated Order of Laboratory Systems
+
+  - Chapter 1 — Continuity: The Continuous Negotiation of Laboratory Order
+ 
+
 ---
 
 ## L3 — Real Project Records: Interfaces, Assumptions, and the Visibility of Failure

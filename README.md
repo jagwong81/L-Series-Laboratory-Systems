@@ -30,6 +30,7 @@
 - L2-6  — The Negotiated Order of Laboratory Systems
 
   - Chapter 1 — Continuity: The Continuous Negotiation of Laboratory Order
+  - Chapter 2 — Consistency: The Persistence of Shared System Assumptions
  
 
 ---

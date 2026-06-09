@@ -31,6 +31,7 @@
 
   - Chapter 1 — Continuity: The Continuous Negotiation of Laboratory Order
   - Chapter 2 — Consistency: The Persistence of Shared System Assumptions
+  -Chapter 3. Completeness: The Accommodation of Coexistence Requirements
  
 
 ---

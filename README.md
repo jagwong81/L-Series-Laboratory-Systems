@@ -36,7 +36,7 @@
 - L2-7  — The Emergence, Purpose and Limits of Laboratory Modularity
 
   - Prologue
-  - Chapter 1 —Is Laboratory Modularity the Goal of Design and Governance, or Its Result?
+  - Chapter 1 — Is Laboratory Modularity the Goal of Design and Governance, or Its Result?
  
 
 ---

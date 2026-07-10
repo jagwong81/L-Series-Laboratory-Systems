@@ -37,8 +37,7 @@
 
   - Prologue
   - Chapter 1 — Is Laboratory Modularity the Goal of Design and Governance, or Its Result?
- 
-
+  - Chapter 2 — Is a Laboratory Module the Starting Point of Organization, or Its Outcome?
 ---
 
 ## L3 — Real Project Records: Interfaces, Assumptions, and the Visibility of Failure

@@ -40,6 +40,7 @@
   - Chapter 2 — Is a Laboratory Module the Starting Point of Organization, or Its Outcome?
   - Chapter 3 — The Capability Reference Behind Adaptability
   - Chapter 4 — Is the Limit of Module Adaptability Technical or Organizational?
+  - Chapter 5 — Is Modularity a Design Principle, or a Governance Choice?
 
 
 ## L3 — Real Project Records: Interfaces, Assumptions, and the Visibility of Failure
